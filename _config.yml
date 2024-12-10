@@ -21,12 +21,12 @@ repository               : "Murivan/murivan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/MauroPhoto.jpg"
+  avatar           : "images/Murivan.png"
   name             : "Davide Andrea Mauro"
   pronouns         : # example: "she/her"  
   bio              : "I work on technologies to promote digital access to our shared musical cultural heritage."
   location         : "Detmold, Germany"
-  employer         : "Paderborn University, KreativInstitut.OWL"
+  employer         : "Paderborn University"
   uri              : # URL
   email            : "davide.mauro@uni-paderborn.de" 
 
